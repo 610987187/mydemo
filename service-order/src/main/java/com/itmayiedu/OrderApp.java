@@ -13,7 +13,7 @@ public class OrderApp {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OrderApp.class, args);
-		System.out.println("aaaaa2222444");
+		System.out.println("ffffffffffff");
 	}
 
 	@Bean
