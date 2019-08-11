@@ -14,17 +14,20 @@
         <module name="service-order (3)" />
         <module name="eureka-server (2)" />
         <module name="service-order (4)" />
-        <module name="eureka-server (3)" />
         <module name="service-order (5)" />
         <module name="eureka-server (4)" />
         <module name="service-order (6)" />
         <module name="eureka-server (1)" />
-        <module name="eureka-server (5)" />
+        <module name="eureka-server (3) (com.itmayiedu)" />
         <module name="service-member (4)" />
         <module name="service-order (1)" />
-        <module name="eureka-server (6)" />
         <module name="service-member (1)" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-server (3)" target="1.8" />
+      <module name="eureka-server (5)" target="1.5" />
+      <module name="eureka-server (6)" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
