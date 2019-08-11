@@ -12,7 +12,9 @@ import org.springframework.web.client.RestTemplate;
 public class OrderApp {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(OrderApp.class, args);
+		System.out.println("aaaaa");
 	}
 
 	@Bean

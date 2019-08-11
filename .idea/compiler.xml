@@ -6,24 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="eureka-server (6)" />
+        <module name="service-member (2)" />
         <module name="service-member (5)" />
         <module name="service-order (2)" />
-        <module name="eureka-server (3)" />
-        <module name="eureka-server (1)" />
-        <module name="service-order (3)" />
+        <module name="service-member (3)" />
         <module name="service-member (6)" />
-        <module name="service-order (6)" />
+        <module name="service-order (3)" />
         <module name="eureka-server (2)" />
-        <module name="service-member (1)" />
-        <module name="service-member (2)" />
+        <module name="service-order (4)" />
+        <module name="eureka-server (3)" />
         <module name="service-order (5)" />
         <module name="eureka-server (4)" />
-        <module name="service-member (3)" />
-        <module name="service-order (1)" />
+        <module name="service-order (6)" />
+        <module name="eureka-server (1)" />
         <module name="eureka-server (5)" />
         <module name="service-member (4)" />
-        <module name="service-order (4)" />
+        <module name="service-order (1)" />
+        <module name="eureka-server (6)" />
+        <module name="service-member (1)" />
       </profile>
     </annotationProcessing>
   </component>
