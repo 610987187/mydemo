@@ -10,6 +10,7 @@ public class EurekaApp {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaApp.class, args);
+		System.out.print("11111115555511111133333");
 		System.out.print("1--");
 	}
 
